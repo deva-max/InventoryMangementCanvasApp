@@ -1,0 +1,25 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2023-02-23T21:23:44.1170000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "__PowerAppsId__": "Row id",
+      "Description": "Description",
+      "Image": "Image",
+      "Item_x0020_Name": "Item Name",
+      "ItemID": "ItemID",
+      "Quantity": "Quantity",
+      "Unit_x0020_Price": "Unit Price"
+    },
+    "DatasetName": "b!K9eD_kRgaE2NcVKxLlRyYuZeEcLL9v9KoXBvHHYgbK48RvQTrrP7SbMFm7VxZ9PI.01RA6N52AGL37CUHWPB5FIYO6HOXVSE6SL",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "Inventory",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]
